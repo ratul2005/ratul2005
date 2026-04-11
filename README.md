@@ -86,8 +86,6 @@ me.say_hi()
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C9BDC?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### ☁️ Cloud & Hosting
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -160,14 +158,29 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratulhub&theme=tokyonight" width="100%" alt="Profile Details"/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ratulhub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratulhub&theme=tokyonight" height="160em" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratulhub&theme=tokyonight" height="160em" alt="Most Commit Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratulhub&theme=tokyonight" height="160em" alt="Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratulhub&theme=tokyonight&utcOffset=6" height="160em" alt="Productive Time"/>
 
 </div>
+
+<br/>
+
+
 
 ---
 
