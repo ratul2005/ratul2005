@@ -206,7 +206,6 @@ me.say_hi()
   <img alt="github-snake" src="https://raw.githubusercontent.com/ratul2005/ratul2005/output/github-snake.svg" />
 </picture>
 
-> ⚙️ **Setup required:** [Follow this guide to enable the snake animation →](https://github.com/Platane/snk)
 
 </div>
 
