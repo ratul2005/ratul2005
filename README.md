@@ -63,7 +63,7 @@ me.say_hi()
 - ✅ &nbsp; Proficient in **Python · NumPy · Pandas · Matplotlib · Seaborn**
 - 🤖 &nbsp; Next milestone → **Deep Learning · TensorFlow · PyTorch · Deployment**
 - 🌐 &nbsp; Projects live at **[ratul.site](https://ratul.site)** · **[ratul.cloud](https://ratul.cloud)** · **[webforsell.shop](https://webforsell.shop)**
-- 🏆 &nbsp; Active on **Codeforces · Beecrowd · HackerRank**
+- 🏆 &nbsp; Active on **Codeforces · Beecrowd**
 - 💬 &nbsp; Ask me about **Python, Web Scraping, Data Analysis, EDA**
 - ⚡ &nbsp; Fun fact: I love turning messy raw data into clean, actionable intelligence
 
@@ -160,13 +160,6 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratulhub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ratul's GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulhub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
 
 <br/>
 
@@ -178,15 +171,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ratulhub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -216,9 +200,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-ratul2005-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ratul2005)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ratul2005-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ratul2005)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-ratul2005-29ABE2?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.beecrowd.com.br)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ratul__cse18-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ratul_cse18)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-ratul1__cse18-29ABE2?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/ratul1_cse18)
 
 </div>
 
