@@ -10,11 +10,11 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ratul2005&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/ratul2005)
+[![Profile Views](https://komarev.com/ghpvc/?username=ratulhub&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/ratulhub)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ratul2005?label=Followers&style=social)](https://github.com/ratul2005)
+[![GitHub followers](https://img.shields.io/github/followers/ratulhub?label=Followers&style=social)](https://github.com/ratulhub)
 &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/ratul2005?label=Stars&style=social)](https://github.com/ratul2005)
+[![GitHub stars](https://img.shields.io/github/stars/ratulhub?label=Stars&style=social)](https://github.com/ratulhub)
 
 <br/>
 
